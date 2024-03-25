@@ -1,4 +1,4 @@
-### 👋 Hi, I'm M S Punith Kumar
+### -->👋 Hi, I'm M S Punith Kumar
 ### 🌱 I'm Currently Pursuing my Master's at University of North Texas
 ### 🔭 I'm currently working on the EasyLease Project
 ### 💼 My Profile on my Portfolio:
